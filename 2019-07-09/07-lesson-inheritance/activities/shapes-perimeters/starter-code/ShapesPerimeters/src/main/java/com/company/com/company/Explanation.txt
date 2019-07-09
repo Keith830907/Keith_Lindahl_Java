@@ -1,0 +1,9 @@
+I think that the declaring the Shape class as abstract and the area and perimeter methods was the best approach to this.
+There is only one class which is Shape to inherit from so declaring it abstract and giving all the other classes it's 
+properties is the way to go. The interface way of doing this works but would be used better if we had a different approach 
+to this like multiple interfaces or multiple inheritance needs. The abstract class allows the derived classes to implement or override 
+the abstract classes functionality. With an interface, you can define the functionality but you are not able to implement it. Since you
+can have your classes only implement from one abstracted class this is the perfect situation for abstraction.   
+
+
+
