@@ -1,0 +1,33 @@
+openapi: 3.0.0
+info:
+  title: Day Converter
+  description: A simple service that tells you hello.
+  version: 0.0.1
+servers:
+  - url: http://localhost:8080
+    description: Local dev server
+paths:
+  /day/{dayNumber}:
+    get:
+      summary: takes the number you choose and gives you the string for that case which is the day
+      description: A simple app that converts a number to a string
+      parameters:
+        - name: dayNumber
+          in: path
+          required: true
+          description: The string you would like to have returned to you from the integer you choose.
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: The name of the day that the number converts to
+          content:
+            application/json:
+              schema:
+                type: string
+        '416':
+          description: Requested dayNumber Range Not Satisfiable
+          content:
+            application/json:
+              schema:
+                type: integer

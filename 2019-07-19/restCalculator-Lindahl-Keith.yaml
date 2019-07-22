@@ -1,0 +1,105 @@
+openapi: 3.0.0
+info:
+  title: Calculator
+  description:
+    A simple service that allows CRUD operations for a calculator 
+    system.
+  version: 0.0.1
+servers:
+  - url: 'http://localhost:8080'
+    description: Local dev server
+paths:
+  /add:
+    post:
+      summary: Creates a calculator entry system that uses add, subtract, divide, and multiply with two operands that the user enters.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Calculator'
+      responses:
+        '201':
+          description: A calculator object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Calculator'
+        '400':
+          description: Invalid request syntax.
+        '422':
+          description: Incomplete calculator information. Some required fields missing.
+
+  /mult:
+    post:
+      summary: Creates a new motorcycle entry with the given information
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Calculator'
+      responses:
+        '201':
+          description: A motorcycle object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Calculator'
+        '400':
+          description: Invalid request syntax.
+        '422':
+          description: Incomplete calculator information. Some required fields missing.
+  /subtract:
+    post:
+      summary: Creates a new motorcycle entry with the given information
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Calculator'
+      responses:
+        '201':
+          description: A motorcycle object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Calculator'
+        '400':
+          description: Invalid request syntax.
+        '422':
+          description: Incomplete calculator information. Some required fields missing.
+  /divide:
+    post:
+      summary: Creates a new motorcycle entry with the given information
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Calculator'
+      responses:
+        '201':
+          description: A motorcycle object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Calculator'
+        '400':
+          description: Invalid request syntax.
+        '422':
+          description: Incomplete calculator information. Some required fields missing.
+components:
+  schemas:
+    Calculator:
+      properties:
+        operand1:
+          type: integer
+        operand2:
+          type: integer
+        
+      required: 
+        - operand1
+        - operand2
+       

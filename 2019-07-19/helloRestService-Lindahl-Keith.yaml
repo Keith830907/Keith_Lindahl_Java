@@ -1,0 +1,28 @@
+openapi: 3.0.0
+info:
+  title: Hello
+  description: A simple service that tells you hello.
+  version: 0.0.1
+servers:
+  - url: http://localhost:8080
+    description: Local dev server
+paths:
+  /hello/{input}:
+    get:
+      summary: tells you hello and then your name
+      description: A simple app that says hello to you and then your name
+      parameters:
+        - name: input
+          in: path
+          required: true
+          description: The name you would like to have echoed back to you.
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Will tell you Hello, + userInput given of a name.
+          content:
+            application/json:
+              schema:
+                type: string
+

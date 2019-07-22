@@ -1,0 +1,81 @@
+openapi: 3.0.0
+info:
+  title: WeatherAPI
+  description:
+    A simple service that allows CRUD operations for a weather service 
+    system.
+  version: 0.0.1
+servers:
+  - url: 'http://localhost:8080'
+    description: Local dev server
+paths:
+ /temp/{zipcode}:
+  get:
+      summary: Retrieves the entry for the weather temp in Fahrenheit or celsius with the zipcode the user provides.
+      description: User enters zipcode and gets weather temperature for that area
+      parameters: 
+        - name: zipcode
+          in: path
+          required: true
+          description: Weather by temperature of the zipcode you would like to retrieve.
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Weather API object matching given zipcode.
+          content:
+            application/json:
+              schema:
+                type: integer
+
+ /conditions/{zipcode}:
+  get:
+      summary: Retrieves the conditions for the weather with the zipcode the user provides.
+      description: User enters zipcode and gets weather conditions for that area
+      parameters: 
+        - name: zipcode
+          in: path
+          required: true
+          description: Weather conditions of the zipcode you would like to retrieve.
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Weather API object matching given zipcode.
+          content:
+            application/json:
+              schema:
+                type: integer
+                
+components:
+  schemas:
+    WeatherAPI:
+      properties:
+        Conditions:
+          type: boolean
+        Temperature:
+          type: boolean
+        fahrenheit:
+          type: integer
+        celsius:
+          type: integer
+        wind speed: 
+          type: integer
+        wind direction:
+          type: string
+        skies:
+          type: string
+        precipitation:
+          type: string
+        
+        
+      required: 
+        - Conditions
+        - Temperature
+        - fahrenheit
+        - celsius
+        - wind speed
+        - wind direction
+        - skies
+        - precipitation
+       

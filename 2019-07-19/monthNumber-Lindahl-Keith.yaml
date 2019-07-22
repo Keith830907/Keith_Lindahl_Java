@@ -1,0 +1,33 @@
+openapi: 3.0.0
+info:
+  title: Month Converter
+  description: A service that converts a number to a String telling you the month
+  version: 0.0.1
+servers:
+  - url: http://localhost:8080
+    description: Local dev server
+paths:
+  /day/{monthNumber}:
+    get:
+      summary: takes the number you choose and gives you the string for that case which is the month
+      description: A simple app that converts a number to a string
+      parameters:
+        - name: monthNumber
+          in: path
+          required: true
+          description: The string you would like to have returned to you from the integer you choose.
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: The name of the month that the number converts to
+          content:
+            application/json:
+              schema:
+                type: string
+        '416':
+          description: Requested monthNumber Range Not Satisfiable
+          content:
+            application/json:
+              schema:
+                type: integer
