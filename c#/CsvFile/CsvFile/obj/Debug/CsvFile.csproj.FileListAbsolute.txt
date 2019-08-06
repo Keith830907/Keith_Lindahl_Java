@@ -1,0 +1,6 @@
+C:\Users\keith\source\repos\CsvFile\CsvFile\bin\Debug\CsvFile.exe.config
+C:\Users\keith\source\repos\CsvFile\CsvFile\bin\Debug\CsvFile.exe
+C:\Users\keith\source\repos\CsvFile\CsvFile\bin\Debug\CsvFile.pdb
+C:\Users\keith\source\repos\CsvFile\CsvFile\obj\Debug\CsvFile.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\CsvFile\CsvFile\obj\Debug\CsvFile.exe
+C:\Users\keith\source\repos\CsvFile\CsvFile\obj\Debug\CsvFile.pdb

@@ -1,0 +1,7 @@
+C:\Users\keith\source\repos\Error handling\Error handling\bin\Debug\Error handling.exe.config
+C:\Users\keith\source\repos\Error handling\Error handling\bin\Debug\Error handling.exe
+C:\Users\keith\source\repos\Error handling\Error handling\bin\Debug\Error handling.pdb
+C:\Users\keith\source\repos\Error handling\Error handling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Error handling\Error handling\obj\Debug\Error handling.exe
+C:\Users\keith\source\repos\Error handling\Error handling\obj\Debug\Error handling.pdb
+C:\Users\keith\source\repos\Error handling\Error handling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\bin\Debug\ConsoleDisplayMessage.exe.config
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\bin\Debug\ConsoleDisplayMessage.exe
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\bin\Debug\ConsoleDisplayMessage.pdb
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\obj\Debug\ConsoleDisplayMessage.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\obj\Debug\ConsoleDisplayMessage.exe
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\obj\Debug\ConsoleDisplayMessage.pdb
+C:\Users\keith\source\repos\ConsoleDisplayMessage\ConsoleDisplayMessage\obj\Debug\ConsoleDisplayMessage.csprojAssemblyReference.cache

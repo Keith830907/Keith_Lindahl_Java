@@ -1,0 +1,19 @@
+{
+    "Developers": [
+        {"FirstName" : "Keith", "LastName" : "Lindahl","StreetAddress" : "2295 Newton Street","City" : "Lake Station","State" : "Indiana","Zip" : "46405","Age" : "33","DeveloperType" : "Web Apps", "Supervisor" : "Hawaii","Title":"WebApp Team Leader"},
+        {"FirstName" : "Kelly", "LastName" : "Lindahl","StreetAddress" : "1874 Days Drive","City" : "New York City","State" : "New York","Zip" : "24165","Age" : "22","DeveloperType" : "Web Design","Supervisor" : "New York","Title" : "Web Dev"},
+        {"FirstName" : "Tim", "LastName" : "Baker","StreetAddress" : "4311 First Street","City" : "St.Louis","State" : "Missouri","Zip" : "38504","Age" : "23","DeveloperType" : "Mobile","Supervisor" : "Georgia","Title" : "Mobile Dev"},
+        {"FirstName" : "Frank", "LastName" : "Russell","StreetAddress" : "909 Fairlane Drive","City" : "Atlanta","State" : "Georgia","Zip" : "11012","Age" : "31","DeveloperType" : "OS","Supervisor" : "Georgia","Title" : "OS Team Lead"},
+        {"FirstName" : "Mark","LastName" : "Fuller","StreetAddress" : "675 Billionaire Blvd","City" : "Austin","State" : "Texas","Zip" : "22065","Age" : "35","DeveloperType" : "OS","Supervisor" : "Florida","Title" : "Os Dev"},
+        {"FirstName" : "Jeff","LastName" : "Newson","StreetAddress" : "4729 Friendly Ave","City" : "Piedmont","State" : "Montana","Zip" : "98765","Age" : "32","DeveloperType" : "Mobile","Supervisor" : "Hawaii","Title" : "Mobile Dev"},
+        {"FirstName" : "Rich","LastName" : "Weidman","StreetAddress" : "3881 Howthehack Drive","City" : "Detroit","State" : "Michigan","Zip" : "47395","Age" : "28","DeveloperType" : "Mobile","Supervisor" : "Georgia","Title" : "Mobile Supervisor"},
+        {"FirstName" : "John","LastName" : "Miller","StreetAddress" : "4140 Miami Street","City" : "Lake Station","State" : "Indiana","Zip" : "46405","Age" : "26","DeveloperType" : ".NET","Supervisor" : "New York","Title" : ".NET Supervisor"},
+        {"FirstName" : "Jim","LastName" : "Jordan","StreetAddress" : "100 Yep Street","City" : "Chicago","State" : "Illinois","Zip" : "31020","Age" : "33","DeveloperType" : ".NET","Supervisor" : "New York","Title" : ">NET Dev"},
+        {"FirstName" : "Anna","LastName" : "Condry","StreetAddress" : "2501 Crowsnest Drive","City" : "Hobart","State" : "Indiana","Zip" : "46342","Age" : "19","DeveloperType" : "Web Apps","Supervisor" : "Georgia","Title" : "WebApp Dev"},
+    ],
+    "Managers": [
+        {"FirstName" : "Holly","LastName" : "Berry","StreetAddress" : "1010 Down Street","City" : "Sacramento","State" : "California","Zip" : "23876","Age" : "43","CostCenter" : "2","Supervisor" : "Joe Lozano"},
+        {"FirstName" : "Tom","LastName" : "Hanks","StreetAddress" : "544 Hollywood Drive","City" : "Hollywood","State" : "California","Zip" : "23810","Age" : "45","CostCenter" : "2","Supervisor" : "Joe Lozano"},
+        {"FirstName" : "Ann","LastName" : "Damn","StreetAddress" : "GoneAway Road","City" : "Fort Lauderdale","State" : "Florida","Zip" : "32255","Age" : "50","CostCenter" : "2","Supervisor" : "Mark Fuller"}
+    ]    
+}

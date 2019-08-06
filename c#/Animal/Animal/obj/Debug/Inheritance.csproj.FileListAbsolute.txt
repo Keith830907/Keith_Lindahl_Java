@@ -1,0 +1,7 @@
+C:\Users\keith\source\repos\Animal\Animal\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Animal\Animal\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Animal\Animal\bin\Debug\Animal.exe.config
+C:\Users\keith\source\repos\Animal\Animal\bin\Debug\Animal.exe
+C:\Users\keith\source\repos\Animal\Animal\bin\Debug\Animal.pdb
+C:\Users\keith\source\repos\Animal\Animal\obj\Debug\Animal.exe
+C:\Users\keith\source\repos\Animal\Animal\obj\Debug\Animal.pdb

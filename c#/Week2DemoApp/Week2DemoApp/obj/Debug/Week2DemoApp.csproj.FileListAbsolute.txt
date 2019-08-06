@@ -1,0 +1,10 @@
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\bin\Debug\Week2DemoApp.exe.config
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\bin\Debug\Week2DemoApp.exe
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\bin\Debug\Week2DemoApp.pdb
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.Form1.resources
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.Properties.Resources.resources
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.exe
+C:\Users\keith\source\repos\Week2DemoApp\Week2DemoApp\obj\Debug\Week2DemoApp.pdb

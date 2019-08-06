@@ -1,0 +1,93 @@
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\App.xbf
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\MainPage.xbf
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.xr.xml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.exe
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.pdb
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\resources.pri
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\AppxManifest.xml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\Core\POS409-Team1.exe
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.build.appxrecipe
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\System.Runtime.dll
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\App.g.i.cs
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.g.cs
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\App.xaml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.xaml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\App.xbf
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.xbf
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.csproj.CopyComplete
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.exe
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.pdb
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\priconfig.xml
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\resources.resfiles
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\pri.resfiles
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\qualifiers.txt
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758696200000000.json
+C:\Users\Administrator\OneDrive - Pitney Bowes\Personal\POS409-Team1\POS409-Team1\bin\x86\Debug\Route.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\Route.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\App.xbf
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\MainPage.xbf
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.xr.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.exe
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.pdb
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\resources.pri
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\AppxManifest.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\Core\POS409-Team1.exe
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\POS409-Team1.build.appxrecipe
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\System.Runtime.dll
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.csprojAssemblyReference.cache
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\App.g.i.cs
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\App.g.cs
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.g.cs
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\App.xaml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.xaml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\App.xbf
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\MainPage.xbf
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.csproj.CoreCompileInputs.cache
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.csproj.CopyComplete
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.exe
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\POS409-Team1.pdb
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\priconfig.xml
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\resources.resfiles
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\pri.resfiles
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\qualifiers.txt
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758696200000000.json
+C:\Users\keith\Downloads\POS409-Team1-Week4\POS409-Team1\POS409-Team1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758732200000000.json

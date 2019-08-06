@@ -1,0 +1,7 @@
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\bin\Debug\SwitchWithNumbers.exe.config
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\bin\Debug\SwitchWithNumbers.exe
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\bin\Debug\SwitchWithNumbers.pdb
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\obj\Debug\SwitchWithNumbers.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\obj\Debug\SwitchWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\obj\Debug\SwitchWithNumbers.exe
+C:\Users\keith\source\repos\SwitchWithNumbers\SwitchWithNumbers\obj\Debug\SwitchWithNumbers.pdb

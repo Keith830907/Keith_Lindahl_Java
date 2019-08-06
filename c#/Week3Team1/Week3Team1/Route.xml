@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>I-55 S and I-44</summary>
+  <leg>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.8757043</lat>
+     <lng>-87.763599</lng>
+    </start_location>
+    <end_location>
+     <lat>34.226039</lat>
+     <lng>-112.285083</lng>
+    </end_location>
+    <polyline>
+     <points>eir~FdezuOpFIbEEj@C</points>
+    </polyline>
+    <duration>
+     <value>1620</value>
+     <text>1 day 3 hr</text>
+    </duration>
+    <html_instructions></html_instructions>
+    <distance>
+     <value>1721</value>
+     <text>1721 mi</text>
+    </distance>
+   </step>
+   <start_address>Chicago, IL, USA</start_address>
+   <end_address>University of Phoenix,9520 W Palm Ln,Phoenix,AZ 85037, USA</end_address>
+  </leg>
+  <copyrights>Map data ©2019 Google, INEGI</copyrights>
+  <overview_polyline>
+   <points>eir~FdezuOzeE|dB`jHb}]fiJb{ZxgJrnWhgG||NzeHpv@`dOdpE|jPsKjrUjoAtpc@v|e@zsHnbIjlItpMtqMn~Jp|GdcNpsZ|sJreRztLjqTf{Wnl@fjQ~tLls@~}K`hD|xFpkHl{Nx_SzjMpuOhkEfcWpxRzbD`hIthIhrSr`Qri\v~AboChjFnpJbC`il@tFbp^qLhuSbuElzRpkNz{Mm`@d~YbjSrl]~dP~zPdxn@OxkQ|`G|iPbuMbxk@tx@z~X~iEvxX|~Qj`Ulxj@|dy@juUxwu@xcHbyc@nbF~mKea@zyUrsFvgLluGpaMbfObmp@bxFlmt@x{a@jfe@joYjqQduUf|PlmEfrMtzCjdr@rdHhiRhaBval@ldUtwo@eq@xnxAiJriVPppE|nDvqA|tG|xDfzAlaMfnRbxf@nx`@nrT~uU|ip@xcS~iQjc\pgb@znOzaa@n~Sd_WttCnlSbcHd`L|dEbb[~}k@n~hAjdNldl@nuKvdbAh~OzjkAdiRvbHftFfiEdCxpB|Gfzd@}zFrcg@ayDdbo@_a@ve`Bx}Et}w@zpDrac@||GdwNp]`bRx}EzoRhIxdSvsGrxMlyKpaFdkEnxXtcAdwb@vTvuu@vYdnsA|bGhw_AaeDzml@wsAjlp@dcDpklAxR|gk@ktG|k_AcuEpoq@dkLr_q@|lPz}bAqnH~r`@sdAjm^zaB~uZptFhnSrhIb~nAjjVz`iAoqFtn}AaaCr{pBgJbag@kxCvtb@c`Md{b@hWtdMxnEliJoiFh}]sJzkWdwW`iqAy}Apl]caG|eJjr@`cNapFpySjQpx_@ofLva[wgI`fKi|VxkPgmGh{CgaEl~RybMfuq@c~J||_@o}Bxjb@``Hbx`@~_U|eYfhQfw\t}A|xO`qIpwL`lYtukArtO`gm@bsCbpW|sF~`FzgBtlSgfJ|ad@eoFv`g@slIpra@_~LfgiAkvLb_q@}iA|yZdcFnbIub@vsJgqHx_UuoCzlWz[~ms@nvDhkO~g@liZmuLxfgAubFzgRftBxfSxcGb_^nuLvpe@daA|yUrbCtpi@ijJ~qz@|jF|fMryOxbH~tg@f{DvgOl\n|L`lXbsA|yg@csItzOwbPlqIopChwRr`CpxVp`IfddAd|E`eo@jzG~_Znq@`bh@p@rhc@wSzoh@_`Kt|k@amRrgkBhcCt_QhgZtpTxbT~dH`ic@~|YreUfbSnuMyhHpsHo{@f|I`qWxiBdig@kGffY`sAtbQreGxyBik@l}HbjBtq[jRtuG</points>
+  </overview_polyline>
+  <waypoint_index>0</waypoint_index>
+  <waypoint_index>1</waypoint_index>
+  <bounds>
+   <southwest>
+    <lat>41.8757043</lat>
+    <lng>-87.763599</lng>
+   </southwest>
+   <northeast>
+    <lat>34.226039</lat>
+    <lng>-112.285083</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJ7cv00DwsDogRAMDACa2m4K8</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

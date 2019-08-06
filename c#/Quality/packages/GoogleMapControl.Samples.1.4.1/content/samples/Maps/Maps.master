@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" MasterPageFile="../Samples.Master" AutoEventWireup="false" %>
+
+<asp:Content ID="cntMain" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="row">
+        <div class="col-md-10">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="col-md-2">
+            <h3>Maps</h3>
+            <ul class="items">
+                <li><a href="/samples/maps">&raquo; Map Options</a></li>
+                <li><a href="/samples/maps/events/">&raquo; Map Events</a></li>
+                <li><a href="/samples/maps/state/">&raquo; Map State</a></li>
+                <li><a href="/samples/maps/databinding/">&raquo; Data Binding</a></li>
+                <li><a href="/samples/maps/updatepanel/">&raquo; Inside UpdatePanel</a></li>
+            </ul>
+
+            <h3>Visualization</h3>
+            <ul class="items">
+                <li><a href="/samples/maps/visualization/heatmap/">&raquo; Heatmap Layer</a></li>
+                <li><a href="/samples/maps/visualization/heatmap/databound/">&raquo; Heatmap Layer Data-Bound</a></li>
+                <li><a href="/samples/maps/visualization/heatmap/options/">&raquo; Heatmap Options</a></li>
+            </ul>
+
+            <h3>Drawing</h3>
+            <ul class="items">
+                <li><a href="/samples/maps/drawing/">&raquo; Drawing</a></li>
+                <li><a href="/samples/maps/drawing/shapes/">&raquo; Drawing Shapes</a></li>
+                <li><a href="/samples/maps/drawing/options/">&raquo; Drawing Options</a></li>
+                <li><a href="/samples/maps/drawing/markeroptions/">&raquo; Drawing Marker Options</a></li>
+                <li><a href="/samples/maps/drawing/circleoptions/">&raquo; Drawing Circle Options</a></li>
+                <li><a href="/samples/maps/drawing/polygonoptions/">&raquo; Drawing Polygon Options</a></li>
+                <li><a href="/samples/maps/drawing/polylineoptions/">&raquo; Drawing Polyline Options</a></li>
+                <li><a href="/samples/maps/drawing/rectangleoptions/">&raquo; Drawing Rectangle Options</a></li>
+            </ul>
+
+            <h3>Static Maps</h3>
+            <ul class="items">
+                <li><a href="/samples/maps/static/">&raquo; Default</a></li>
+            </ul>
+        </div>
+    </div>
+</asp:Content>

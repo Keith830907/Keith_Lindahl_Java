@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" MasterPageFile="../Samples.Master" AutoEventWireup="false" %>
+
+<asp:Content ID="cntMain" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="row">
+        <div class="col-md-10">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="col-md-2">
+            <h3>Directions
+            </h3>
+            <ul class="items">
+                <li><a href="/samples/directions/">&raquo; Default</a></li>
+                <li><a href="/samples/directions/clientevents/">&raquo; Client Events</a></li>
+                <li><a href="/samples/directions/serverevents/">&raquo; Server Events</a></li>
+                <li><a href="/samples/directions/codebehind/">&raquo; Code Behind</a></li>
+            </ul>
+        </div>
+    </div>
+</asp:Content>

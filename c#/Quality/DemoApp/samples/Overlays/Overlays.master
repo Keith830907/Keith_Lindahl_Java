@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" MasterPageFile="../Samples.master" %>
+
+<asp:Content ContentPlaceHolderID="MainContent" runat="server">
+    <div class="row">
+        <div class="col-md-10">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="col-md-2">
+            <h3>Polygons
+            </h3>
+            <ul class="items">
+                <li><a href="/samples/overlays">&raquo; Polygon</a></li>
+                <li><a href="/samples/overlays/circle">&raquo; Circle</a></li>
+                <li><a href="/samples/overlays/rectangle">&raquo; Rectangle</a></li>
+                <li><a href="/samples/overlays/ground">&raquo; Ground</a></li>
+                <li><a href="/samples/overlays/clientevents">&raquo; Client Events</a></li>
+                <li><a href="/samples/overlays/serverevents">&raquo; Server Events</a></li>
+                <li><a href="/samples/overlays/codebehind">&raquo; Code Behind</a></li>
+            </ul>
+        </div>
+    </div>
+</asp:Content>

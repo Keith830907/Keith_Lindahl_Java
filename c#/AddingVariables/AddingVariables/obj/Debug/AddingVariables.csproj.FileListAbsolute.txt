@@ -1,0 +1,7 @@
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\obj\Debug\AddingVariables.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\obj\Debug\AddingVariables.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\bin\Debug\AddingVariables.exe.config
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\bin\Debug\AddingVariables.exe
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\bin\Debug\AddingVariables.pdb
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\obj\Debug\AddingVariables.exe
+C:\Users\keith\source\repos\AddingVariables\AddingVariables\obj\Debug\AddingVariables.pdb

@@ -1,0 +1,10 @@
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\bin\Debug\Week3_Linq.exe.config
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\bin\Debug\Week3_Linq.exe
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\bin\Debug\Week3_Linq.pdb
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.Form1.resources
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.Properties.Resources.resources
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.exe
+C:\Users\keith\source\repos\Week3_Linq\Week3_Linq\obj\Debug\Week3_Linq.pdb

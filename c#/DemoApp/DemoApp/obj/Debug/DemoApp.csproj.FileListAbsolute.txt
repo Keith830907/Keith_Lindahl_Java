@@ -1,0 +1,10 @@
+C:\Users\keith\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\keith\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\keith\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\keith\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Employee.resources

@@ -1,0 +1,13 @@
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.Form1.resources
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.Properties.Resources.resources
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\bin\Debug\Week4Employee.exe.config
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\bin\Debug\Week4Employee.exe
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\bin\Debug\Week4Employee.pdb
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\bin\Debug\Newtonsoft.Json.dll
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\bin\Debug\Newtonsoft.Json.xml
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.csproj.CopyComplete
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.exe
+C:\Users\keith\source\repos\Week4Employee\Week4Employee\obj\Debug\Week4Employee.pdb

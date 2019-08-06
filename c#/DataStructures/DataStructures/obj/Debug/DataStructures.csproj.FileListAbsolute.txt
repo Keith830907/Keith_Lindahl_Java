@@ -1,0 +1,12 @@
+C:\Users\keith\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\CsvHelper.dll
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\System.ValueTuple.dll
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\CsvHelper.xml
+C:\Users\keith\source\repos\DataStructures\DataStructures\bin\Debug\System.ValueTuple.xml
+C:\Users\keith\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CopyComplete
+C:\Users\keith\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\keith\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\keith\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache

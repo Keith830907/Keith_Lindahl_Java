@@ -1,0 +1,28 @@
+﻿body {
+}
+#menu ul{
+    list-style:none;
+}
+    #menu ul li {
+        background-color: #c5ccd3;
+        border:solid 1px white;
+        width: 120px;
+        height:35px;
+        text-align:center;
+        line-height:35px;
+        float:left;
+        position:relative;
+        border-radius:10px;
+
+    }
+        #menu ul li a {
+            text-decoration: none;
+            color: black;
+            display:block;
+
+        }
+        #menu ul li a:hover{
+            background-color:brown;
+            color:black;
+            border-radius:10px;
+        }

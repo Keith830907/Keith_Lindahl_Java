@@ -1,0 +1,8 @@
+﻿CREATE DEFINER=`root`@`localhost` PROCEDURE `ClientViewByID`(
+_ID int(11)
+)
+BEGIN
+	select *
+    from qualityclientdata
+    where ID= _ID;
+END

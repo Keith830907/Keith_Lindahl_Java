@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoApp",
+    "\\DemoApp\\bin",
+    "\\DemoApp\\bin\\amd64",
+    "\\DemoApp\\bin\\roslyn",
+    "\\DemoApp\\bin\\x86"
+  ],
+  "SelectedNode": "\\DemoApp\\packages.config",
+  "PreviewInSolutionExplorer": false
+}

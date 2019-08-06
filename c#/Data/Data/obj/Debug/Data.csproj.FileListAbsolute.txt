@@ -1,0 +1,7 @@
+C:\Users\keith\source\repos\Data\Data\bin\Debug\Data.exe.config
+C:\Users\keith\source\repos\Data\Data\bin\Debug\Data.exe
+C:\Users\keith\source\repos\Data\Data\bin\Debug\Data.pdb
+C:\Users\keith\source\repos\Data\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Data\Data\obj\Debug\Data.exe
+C:\Users\keith\source\repos\Data\Data\obj\Debug\Data.pdb

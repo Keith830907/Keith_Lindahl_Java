@@ -1,0 +1,10 @@
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.Form1.resources
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.Properties.Resources.resources
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\bin\Debug\Week4Team1.exe.config
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\bin\Debug\Week4Team1.exe
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\bin\Debug\Week4Team1.pdb
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.exe
+C:\Users\keith\source\repos\Week4Team1\Week4Team1\obj\Debug\Week4Team1.pdb

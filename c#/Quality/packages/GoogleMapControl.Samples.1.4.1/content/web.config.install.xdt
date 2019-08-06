@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+    <appSettings xdt:Transform="InsertIfMissing">
+        <add key="GoogleMaps.ApiKey" value="YOUR_GOOLE_KEY_HERE" xdt:Transform="InsertIfMissing"/>
+    </appSettings>
+    <system.web>
+        <pages>
+            <controls>
+                <add tagPrefix="map" namespace="GoogleMaps" assembly="GoogleMaps" xdt:Transform="InsertIfMissing" xdt:Locator="Match(tagPrefix,namespace)"/>
+                <add tagPrefix="map" namespace="GoogleMaps.Markers" assembly="GoogleMaps" xdt:Transform="InsertIfMissing" xdt:Locator="Match(tagPrefix,namespace)"/>
+                <add tagPrefix="map" namespace="GoogleMaps.Directions" assembly="GoogleMaps" xdt:Transform="InsertIfMissing" xdt:Locator="Match(tagPrefix,namespace)"/>
+                <add tagPrefix="map" namespace="GoogleMaps.Overlays" assembly="GoogleMaps" xdt:Transform="InsertIfMissing" xdt:Locator="Match(tagPrefix,namespace)"/>
+                <add tagPrefix="map" namespace="GoogleMaps.Polylines" assembly="GoogleMaps" xdt:Transform="InsertIfMissing" xdt:Locator="Match(tagPrefix,namespace)"/>
+                <add tagPrefix="map" namespace="GoogleMaps.Drawing" assembly="GoogleMaps" xdt:Transform="InsertIfMissing" xdt:Locator="Match(tagPrefix,namespace)"/>
+            </controls>
+        </pages>
+    </system.web>
+</configuration>

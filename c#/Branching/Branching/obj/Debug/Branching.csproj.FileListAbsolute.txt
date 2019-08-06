@@ -1,0 +1,6 @@
+C:\Users\keith\source\repos\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\keith\source\repos\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\keith\source\repos\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\keith\source\repos\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\keith\source\repos\Branching\Branching\obj\Debug\Branching.pdb

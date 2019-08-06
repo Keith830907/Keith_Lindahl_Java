@@ -1,0 +1,5 @@
+﻿CREATE DEFINER=`root`@`localhost` PROCEDURE `ClientViewAll`()
+BEGIN
+	SELECT *
+    FROM qualityclientdata;
+END

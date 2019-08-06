@@ -1,0 +1,37 @@
+﻿CREATE DEFINER=`root`@`localhost` PROCEDURE `ClientAddOrEdit`(
+_ID int(11),
+_NextCall date,
+_Customer varchar(45),
+_Address varchar(45),
+_MAP varchar(200),
+_PhoneNumber varchar(11),
+_CALLER varchar(11),
+_LastCall date,
+_TimeSinceLastCall varchar(45),
+_CustomerContact varchar(50),
+_Comments varchar(500)
+)
+BEGIN
+		if _ID=0 then
+			INSERT into qualityclientdata (ID, NextCall, Customer, Address, MAP, PhoneNumber, CALLER, LastCall, TimeSinceLastCall, CustomerContact, Comments)
+			values (_ID, _NextCall, _Customer, _Address, _MAP, _PhoneNumber, _CALLER, _LastCall, _TimeSinceLastCall, _CustomerContact, _Comments);
+		else
+			UPDATE qualityclientdata
+            SET
+             ID = _ID,
+             NextCall = _NextCall, 
+             Customer = _Customer, 
+             Address = _Address, 
+             MAP = _MAP,
+             PhoneNumber = _PhoneNumber,
+             CALLER = _CALLER,
+             LastCall = _LastCall, 
+             TimeSinceLastCall = _TimeSinceLastCall,
+             CustomerContact = _CustomerContact,
+             Comments = _Comments;
+             
+		END IF;
+            
+            
+
+END

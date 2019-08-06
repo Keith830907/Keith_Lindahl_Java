@@ -1,0 +1,7 @@
+﻿CREATE DEFINER=`root`@`localhost` PROCEDURE `ClientDeleteByID`(
+_ID int(11)
+)
+BEGIN
+	delete from qualityclientdata
+    where ID =_ID;
+END

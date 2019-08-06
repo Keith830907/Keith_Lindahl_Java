@@ -1,0 +1,10 @@
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\bin\Debug\Team1Week4.exe.config
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\bin\Debug\Team1Week4.exe
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\bin\Debug\Team1Week4.pdb
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.Form1.resources
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.Properties.Resources.resources
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.exe
+C:\Users\keith\source\repos\Team1Week4\Team1Week4\obj\Debug\Team1Week4.pdb

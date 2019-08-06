@@ -1,0 +1,103 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - ASP.NET Google Map Control Samples</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="/Content/Highlight/vs.css" rel="stylesheet" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/samples">Google Map Control</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/samples/maps"><i class="fa fa-map-o"></i>Maps</a></li>
+                        <li><a runat="server" href="~/samples/markers"><i class="fa fa-map-marker"></i>Markers</a></li>
+                        <li><a runat="server" href="~/samples/overlays"><i class="fa fa-object-ungroup"></i>Overlays</a></li>
+                        <li><a runat="server" href="~/samples/polylines"><i class="fa fa-align-justify"></i>Polylines</a></li>
+                        <li><a runat="server" href="~/samples/directions"><i class="fa fa-map-signs"></i>Directions</a></li>
+                        <li>
+                            <a runat="server" href="https://mapcontrol.bitbucket.io" target="_blank" title="Tutorials and API documentation">
+                                <i class="fa fa-question-circle-o"></i>Docs
+                            </a>
+                        </li>
+                        <li>
+                            <a runat="server" href="http://googlemapcontrol.com/downloads/" target="_blank" title="Download sample pages">
+                                <i class="fa fa-download"></i>Download
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <ul class="items">
+                <li>Ready to publish? - <a href="http://googlemapcontrol.com/googlemapcontrol_pay/">Purchase the Commercial Build now</a></li>
+                <li>Need support? - <a href="http://googlemapcontrol.com/contact-us/">Contact Us now</a></li>
+                <li>Need tutorials? - <a href="https://mapcontrol.bitbucket.io/">Read Docs & Tutorials now</a></li>
+                <li>Have questions? Need to discuss? - <a href="http://googlemapcontrol.com/forum/">Post in Our Forum now</a></li>
+                <li>Need more details? - <a href="https://www.nuget.org/packages/GoogleMapControl/">Check NuGet Documentation now</a></li>
+            </ul>
+            <hr />
+            <footer>
+                <div class="row">
+                    <div class="col-md-6">
+                        &copy; <%: DateTime.Now.Year %> - 
+                        <a href="http://googlemapcontrol.com" target="_blank">ASP.NET Google Map Control</a>
+                    </div>
+                    <div class="col-md-6" style="text-align: right;">
+                        <a href="http://googlemapcontrol.com/downloads/" target="_blank"><i class="fa fa-download"></i>Download Sample Pages</a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </form>
+
+    <script src="/Scripts/Highlight/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
