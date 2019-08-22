@@ -221,6 +221,59 @@ public class Invoice_ItemDaoTest {
         assertEquals(invoice_item_1, invoice_item);
     }
 
+    public void getInvoiceItemsByInvoice()
+    {
+
+        Item item = new Item();
+        item.setName("phone");
+        item.setDescription("black");
+        item.setDaily_rate(new BigDecimal("21.95"));
+        item = itemDao.addItem(item);
+
+        Customer customer = new Customer();
+        customer.setFirst_name("Keith");
+        customer.setLast_name("Lindahl");
+        customer.setEmail("@hotmail.com");
+        customer.setCompany("Big Company");
+        customer.setPhone("222-555-4444");
+        customer = customerDao.addCustomer(customer);
+
+        Invoice invoice = new Invoice();
+        invoice.setId(invoice.getId());
+        invoice.setCustomer_id(customer.getId());
+        invoice.setOrder_date((LocalDate.of(2019, 8, 03)));
+        invoice.setPickup_date((LocalDate.of(2019, 8, 06)));
+        invoice.setReturn_date((LocalDate.of(2019, 8, 24)));
+        invoice.setLate_fee(new BigDecimal("3.99"));
+        invoice = invoiceDao.addInvoice(invoice);
+
+
+        Invoice_Item invoice_item = new Invoice_Item();
+
+        invoice_item.setId(invoice_item.getId());
+        invoice_item.setInvoice_id(invoice.getId());
+        invoice_item.setItem_id(item.getId());
+        invoice_item.setQuantity(34);
+        invoice_item.setUnit_rate(new BigDecimal("21.95"));
+        invoice_item.setDiscount(new BigDecimal("3.00"));
+
+        invoice_item = invoice_itemDao.addInvoice_Item(invoice_item);
+
+        Invoice_Item invoiceItem1 = new Invoice_Item();
+        invoiceItem1.setItem_id(item.getId());
+        invoiceItem1.setQuantity(3);
+        invoiceItem1.setInvoice_id(invoice.getId());
+        invoiceItem1.setUnit_rate(new BigDecimal(35).setScale(2));
+        invoiceItem1.setDiscount(new BigDecimal(3).setScale(2));
+        invoice_itemDao.addInvoice_Item(invoiceItem1);
+
+        List<Invoice_Item> iList = invoice_itemDao.getInvoice_ItemsByInvoice(invoice.getId());
+        assertEquals(2,iList.size());
+
+
+    }
+
+
 
 
 }

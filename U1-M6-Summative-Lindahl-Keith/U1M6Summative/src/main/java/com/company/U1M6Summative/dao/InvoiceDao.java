@@ -15,4 +15,7 @@ public interface InvoiceDao {
     void updateInvoice(Invoice invoice);
 
     void deleteInvoice(int id);
+
+    List<Invoice> getInvoiceByCustomer(int id);
 }
+
